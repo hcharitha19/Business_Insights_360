@@ -27,6 +27,10 @@ https://app.powerbi.com/groups/me/reports/872c73ff-7e69-45c2-9267-1941489d7eee/R
 
 ## Power BI Techniques Learned
 - Understanding business requirements before starting the project
+
+## Learning Reference:
+Codebasics (data analytics Bootcamp) 
+👉https://codebasics.io/
 - Creating calculated columns
 - Creating measures using DAX
 - Snowflake data modeling
